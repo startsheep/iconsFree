@@ -1,0 +1,25 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "entrypoint iconsFree",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naneps/iconsFree.git"
+  },
+  "keywords": [
+    "iconsfree"
+  ],
+  "author": "nannn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naneps/iconsFree/issues"
+  },
+  "homepage": "https://github.com/naneps/iconsFree#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
